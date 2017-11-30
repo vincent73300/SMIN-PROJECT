@@ -57,21 +57,6 @@ function appelTeams(team, ligue)
 }
 
 
-function imgServer(img){
-	var res;
-	$.ajax({
-  		url: img,
-  		crossDomain: true,
-	success: callback {
-            res=1
-	},
-    error: function() {
-        res=2;
-   	}
-   });
-	return res;
-}
-
 function appelPlayers(players, team){
 	$.ajax({
 		type: 'GET',
