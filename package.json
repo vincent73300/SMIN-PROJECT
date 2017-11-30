@@ -1,0 +1,23 @@
+{
+  "name": "sminp",
+  "version": "1.0.0",
+  "description": "Project tutora",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaU25/SMIN-PROJET.git"
+  },
+  "author": "Leonel, Vincent, Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmaU25/SMIN-PROJET/issues"
+  },
+  "homepage": "https://github.com/EmmaU25/SMIN-PROJET#readme"
+}
